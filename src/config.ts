@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/Triple19",
   },
   aboutMe:
-    "My name is Zeeshan Shaik, and I am an incoming junior in high school. I am an electrical engineering student interested in learning about computer programming, machine learning, and computer components. My hobbies consist of playing video games and reading books.",
+    "My name is Zeeshan Shaik, and I am an incoming junior in high school. I am an electrical engineering student interested in learning about computer programming, machine learning, and computer components. My hobbies consist of playing video games and exploring their mechanics along with reading books.",
   skills: ["Java", "Javascript", "Angular", "Node.js", "Python"],
   projects: [
     {
